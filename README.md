@@ -2,7 +2,7 @@
 
 #### My name is fisya <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Mechanical%20arm/3D/mechanical_arm_3d.png' style='height: 32px; width: auto;'>
 
-- <img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Potted%20plant/3D/potted_plant_3d.png' style='height: 32px; width: auto;'> I’m currently learning programming languages such as:
+<img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Potted%20plant/3D/potted_plant_3d.png' style='height: 32px; width: auto;'> I’m currently learning programming languages such as:
 <img src='https://github.com/Tsprnay/icons/blob/main/icons/Python-Dark.svg' style='height: 64px; widht: auto;'>
   <summary><h3><img src='https://github.com/microsoft/fluentui-emoji/blob/main/assets/Chart%20increasing/3D/chart_increasing_3d.png' style='height: 32px; width: auto;'> Interesting numbers</h3></summary>
   <ul>
